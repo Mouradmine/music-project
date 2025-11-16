@@ -1,0 +1,101 @@
+body {
+    background-color: #633124;
+}
+
+.first-title {
+    text-align: center;
+    background-color: #DB5116;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nav-one {
+    text-align: center;
+    background-color: #48967D;
+    padding: 1em;
+}
+.nav-one a {
+    text-decoration: none;
+    color: black;
+    margin: 0 15px;
+    font-size: 20px;
+}
+.nav-one a:hover {
+    color: #5CE629;
+    text-decoration: underline;
+}
+.image-container {
+   text-align: center;
+}
+.video-one {
+    text-align: center;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.video-one video {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+main {
+    background-color: bisque;
+}
+.first-text {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+}
+.second-text {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.third-text {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.footer {
+    background-color: #DB5116;
+    text-align: center;
+    padding: 1em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.footer p {
+    font-size: 150%;
+}
+.one-movies p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.image1-movies img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    height: auto;
+    display: block;
+}
+.text-one-movies {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.image2-movies img {
+    width: 35%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.text-two-movies {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.image3-movies img {
+    width: 35%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.text-three-movies {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.text-music {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
